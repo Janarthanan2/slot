@@ -30,7 +30,7 @@ Execute the program
 </center>
 <br>
 <table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
-<caption><b>SLOT TIME TABLE - SAI SATHYA V (22008626)</b></caption>
+<caption><b>SLOT TIME TABLE - JANARTHANAN V K (22000979)</b></caption>
 <tr align="center">
 <th bgcolor="yellow">Day/Time</th>
 <th bgcolor="yellow">Monday</th>
@@ -81,7 +81,7 @@ Execute the program
 </tr>
 <tr>
 <td align="center">1.</td>
-<td align="center">19AI414</td>
+<td align="center">19AI614</td>
 <td>Fundamentals of Web Application Development (FWAD)</td>
 </tr>
 <tr>
@@ -92,7 +92,7 @@ Execute the program
 <tr>
 <td align="center">3.</td>
 <td align="center">19PH206</td>
-<td>Physics for Information Technology (PHY)</td>
+<td>Physics for Quantum Computing (PHY)</td>
 </tr>
 <tr>
 <td align="center">4.</td>
@@ -112,6 +112,7 @@ Execute the program
 </table>
 </body>
 </html>
+
 ```
 
 # OUPUT
